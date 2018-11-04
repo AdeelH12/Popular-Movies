@@ -1,0 +1,60 @@
+@media only screen and (min-width: 768px){
+
+
+    #movie-poster{
+
+        width: 70%;
+        position: relative;
+        left: 15%;
+    
+    }
+
+    #movieTitle {
+
+        font-size: 3em;
+    }
+
+    #movieDesc {
+
+        font-size: 2em;
+        line-height: 35px;
+    }
+
+    
+
+}
+
+@media only screen and (min-width: 768px){
+
+    #movie-poster {
+
+        width: 50%;
+        position: relative;
+        left: 25%;
+    }
+
+    #movieDesc {
+
+        text-align: center;
+    }
+
+    
+}
+
+@media only screen and (min-width: 1366px){
+
+    #movie-poster{
+
+        width: 30%;
+        position: relative;
+        left: 35%;
+    }
+
+    #movieDesc {
+
+
+        font-size: 1em;
+        margin-right: 70px;
+        margin-left: 70px;
+    }
+}
